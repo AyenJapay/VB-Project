@@ -1,0 +1,17 @@
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\bin\Debug\Japay.exe.config
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\bin\Debug\Japay.exe
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\bin\Debug\Japay.pdb
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\bin\Debug\Japay.xml
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\obj\Debug\Japay.vbprojResolveAssemblyReference.cache
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\obj\Debug\Japay.Form1.resources
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\obj\Debug\Japay.Resources.resources
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\obj\Debug\Japay.vbproj.GenerateResource.Cache
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\obj\Debug\Japay.exe
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\obj\Debug\Japay.xml
+c:\users\cl1-te\documents\visual studio 2015\Projects\Japay\Japay\obj\Debug\Japay.pdb
+C:\Users\CL1-TE\Documents\Visual Studio 2015\Projects\Japay\Japay\bin\Debug\MetroFramework.Design.dll
+C:\Users\CL1-TE\Documents\Visual Studio 2015\Projects\Japay\Japay\bin\Debug\MetroFramework.dll
+C:\Users\CL1-TE\Documents\Visual Studio 2015\Projects\Japay\Japay\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\CL1-TE\Documents\Visual Studio 2015\Projects\Japay\Japay\obj\Debug\Japay.RegistrationForm.resources
+C:\Users\CL1-TE\Documents\Visual Studio 2015\Projects\Japay\Japay\obj\Debug\Japay.Dashboard.resources
+C:\Users\CL1-TE\Documents\Visual Studio 2015\Projects\Japay\Japay\bin\Debug\MySql.Data.dll
